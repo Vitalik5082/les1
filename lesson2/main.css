@@ -1,0 +1,27 @@
+.margine {
+   margin: 20px 0px;
+}
+.elenemtary {
+    background: #ffab02;
+    height: 100px;
+    width: 100px;
+    box-sizing: border-box;
+    padding: 40px;
+    border: 1px solid black;
+    box-shadow: #474747;
+}
+.a1qube {
+    box-shadow: 10px 10px 2px 1px;
+}
+.b2qube{
+    box-shadow: 10px 10px 8px 1px;
+}
+.c3qube {
+    box-shadow: 10px 15px 8px 1px;
+}
+.d4qube {
+    box-shadow: #9f9f9f 10px 15px 10px 1px;
+}
+.e5qube {
+    border-radius: 5px;
+}
