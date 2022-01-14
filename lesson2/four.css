@@ -1,0 +1,23 @@
+.centr {
+    background: #818181;
+    height: 400px;
+    width: 800px;
+    margin-left: 20px;
+    margin-top: 200px;
+    box-shadow: #d4b88f -55px -55px 80px 40px;
+}
+.paragtaph {
+    box-sizing: border-box;
+    border-left: 10px #fe0202 solid;
+    padding-left: 20px;
+    /*margin: 50px 0px 0px 20px;*/
+    font-size: 120%;
+
+}
+.margin {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.margin2 {
+    margin-bottom: 0px;
+}
