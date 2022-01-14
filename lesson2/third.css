@@ -1,0 +1,25 @@
+body {
+    background: #272727;
+    box-sizing: border-box;
+    margin-top: 170px;
+}
+.target {
+    height: 60px;
+    width: 220px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 120%;
+    margin: 20px 800px;
+}
+.one {
+    border: 6px solid #ff6f1f;
+}
+.two {
+    border: 6px solid #2efff2;
+   }
+.three {
+    border: 6px solid #ff55a7;
+}
+.four {
+    border: 6px solid #ff4040;
+}
