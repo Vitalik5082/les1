@@ -1,0 +1,33 @@
+.home {
+    height: 400px;
+    width: 150px;
+    background: #2efff2;
+    margin-left: 10px;
+}
+.flex {
+    display: flex;
+}
+.kabobs {
+    height: 150px;
+    width: 310px;
+    background: #2efff2;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.Q {
+    height: 150px;
+    width: 96px;
+    background: #2efff2;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.centr {
+    justify-content: center;
+    height: 10em;
+    display: flex;
+    align-items: center;
+    margin: 0;
+}
+.midle {
+    margin-top: 95px;
+}
