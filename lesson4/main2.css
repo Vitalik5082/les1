@@ -1,0 +1,25 @@
+.col-blue {
+background: #6496ec;
+}
+.col-blue-dark {
+background: #2156b2;
+}
+.w310 {
+    width: 310px;
+}
+.w100 {
+    width: 100px;
+}
+.h100 {
+height: 100px;
+}
+.flex {
+    display: flex;
+}
+.h200 {
+    height: 200px;
+}
+.margin {
+    margin-top: 5px;
+    margin-left: 5px;
+}
