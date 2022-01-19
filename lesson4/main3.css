@@ -1,0 +1,77 @@
+.backgraund-size {
+    width: 850px;
+    height: 400px;
+}
+.col-silver{
+    background: #ced8e1;
+}
+.col-blue {
+  background: #122d40;
+}
+.h-w-main{
+ width: 150px;
+    height: 120px;
+}
+.curcle{
+   border-radius: 999px;
+    width: 150px;
+    height: 150px;
+    margin: 55px;
+}
+.border{
+    width: 750px;
+    height: 350px;
+    border: 6px solid #9ec0cd;
+   margin-left: 50px;
+}
+.border-bot{
+    border: 4px solid #9ec0cd;
+    width: 250px;
+    height: 300px;
+    margin-top: 20px    ;
+}
+.flex {
+    display: flex;
+    flex-direction: row;
+}
+.flex-space{
+    justify-content: space-around;
+}
+.margin{
+    margin-top: 70px;
+}
+.border-rad {
+    border-radius: 50px;
+}
+.border-rad2 {
+    border-radius: 15px;
+}
+.text {
+    height: 6px;
+    width: 60px;
+}
+.text2 {
+    height: 6px;
+    width: 40px;
+}
+#position {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.margin-up{
+    margin-top: -60px;
+}
+.margin-top{
+    margin-top: 10px;
+}
+.margin-left{
+    margin-left: 10px;
+}
+.margin-left1{
+    margin-left: 50px;
+}
+.margin1{
+    margin-top: 90px;
+
+}
