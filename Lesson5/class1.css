@@ -1,0 +1,72 @@
+.border{
+    height: 1000px;
+    width: 400px;
+    border: 10px solid #000006;
+}
+.back{
+    background: silver;
+}
+.one{
+    width: 90px;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+.two{
+    width: 90px;
+    height: 30px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.three{
+    width: 290px;
+    height: 120px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.one4{
+      width: 68px;
+      height: 60px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.one5{
+    width: 100px;
+    height: 80px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.but_centr{
+    width: 50px;
+    height: 20px;
+    margin-left:82px;
+    margin-top: 10px;
+}
+.six1{
+    width: 80px;
+    height: 40px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.seven{
+    height: 10px;
+    width: 280px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.seven1{
+    height: 12px;
+    width: 80px;
+    margin-top: 10px;
+    margin-left: 95px;
+}
+.flex{
+    display: flex;
+}
+.betwin{
+    justify-content: space-between;
+}
+.column{
+    flex-direction: column;
+}
