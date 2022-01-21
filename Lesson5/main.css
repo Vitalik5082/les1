@@ -29,6 +29,12 @@
     width: 500px;
     margin-left: 10px;
 }
+.b2{
+    height: 150px;
+    width: 150px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
 .pic-c{
     height: 330px;
     width: 315px;
@@ -45,6 +51,12 @@
     width: 320px;
     margin-left: 10px;
     margin-top: -150px;
+}
+.h{
+    height: 310px;
+    width: 340px;
+    margin-left: 500px;
+    margin-top: -320px;
 }
 .back{
     background: silver;
@@ -85,6 +97,13 @@
         margin-left: 10px;
         border-radius: 20px;
     }
+    .b2{
+        height: 117px;
+        width: 117px;
+        margin-left: 10px;
+        margin-bottom: 10px;
+        border-radius: 20px;
+    }
     .pic-c{
         height: 200px;
         width: 380px;
@@ -113,7 +132,13 @@
         margin-top: 10px;
         border-radius: 20px;
     }
-
+    .h{
+        height: 250px;
+        width: 370px;
+        margin-left: 10px;
+        margin-top: 1px;
+        border-radius: 20px;
+    }
     .flex{
         display: flex;
         flex-direction: column;
