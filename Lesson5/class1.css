@@ -70,3 +70,79 @@
 .column{
     flex-direction: column;
 }
+@media screen and (min-width: 0) and (max-width: 400px){
+    .border{
+        height: 1000px;
+        width: 200px;
+        border: 5px solid #000006;
+    }
+    .mob_border{
+        height: 150px;
+        width: 100px;
+        border: 4px dashed #000006;
+        margin-right: -3px;
+    }
+    .two1{
+        width: 90px;
+        height: 30px;
+        margin-left: 5px;
+        margin-top: 5px;
+    }
+    .two{
+        display: none;
+    }
+    .three{
+        width: 185px;
+        height: 120px;
+        margin-top: 5px;
+        margin-left: 5px;
+    }
+    .column1{
+        flex-direction: column;
+    }
+    .one4{
+        width: 90px;
+        height: 60px;
+        margin-left: 5px;
+        margin-top: 5px;
+    }
+    .one5{
+        width: 185px;
+        height: 20px;
+        margin-left: 5px;
+        margin-top: 5px;
+    }
+    .but_centr{
+        width: 50px;
+        height: 10px;
+        margin-left:72px;
+        margin-top: 10px;
+    }
+    .six1{
+        width: 185px;
+        height: 60px;
+        margin-left: 5px;
+        margin-top: 5px;
+    }
+    .six2{
+        width: 185px;
+        height: 200px;
+        margin-left: 5px;
+        margin-top: 5px;
+    }
+    .seven{
+        height: 10px;
+        width: 185px;
+        margin-top: 10px;
+        margin-left: 5px;
+    }
+    .seven1{
+        height: 12px;
+        width: 80px;
+        margin-top: 10px;
+        margin-left: 55px;
+    }
+    .hide{
+        display: none;
+    }
+}
