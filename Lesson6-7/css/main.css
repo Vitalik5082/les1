@@ -469,6 +469,9 @@ margin-top: 30.5px;
     line-height: 28px;
     color: #375361;
 }
+.flex11{
+    display: flex;
+}
 .learn_more{
 margin-top: 35px;
 }
@@ -623,6 +626,8 @@ margin-top: 17px;
     height: 48px;
 }
 .bot_main_txt{
+    width: 600px;
+    height: auto;
 font-size: 42px;
 line-height: 48px;
 text-align: center;
