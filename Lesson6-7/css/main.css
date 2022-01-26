@@ -20,9 +20,6 @@
     font-weight: normal;
     font-size: 12px;
 }
-.top_menu{
-
-}
 .flex{
    display: flex;
 }
@@ -410,7 +407,6 @@ margin-top: 11px;
     margin-top: 152px;
 }
 .Features{
-
     font-size: 14px;
     line-height: 24px;
    letter-spacing: 1.4px;
@@ -686,4 +682,7 @@ letter-spacing: 0.42px;
 }
 .mrg24{
     margin-left: 24px;
+}
+.desktop_none{
+    display: none;
 }
