@@ -29,7 +29,7 @@ for (const masuvs of masuv) {
     document.body.appendChild(div)
     console.log(masuv)
 }
-console.log(masuv)
+
 
 //- Є масив
 let coursesAndDurationArray = [
