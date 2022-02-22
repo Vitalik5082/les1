@@ -29,10 +29,9 @@ if (test === true){
 console.log("worning")}
     //Якщо змінна a не дорівнює нулю, виведіть 'Вірно', інакше виведіть 'Невірно'. Перевірте  скрипт при a, що дорівнює 1, 0, -3
 let a = +prompt("wrine number")
-if (a !== 0) {
-    console.log("good")
-}
-else (a === 0)
+if (a !==0)
+{console.log("good")}
+else
 {
     console.log("bad")
 }

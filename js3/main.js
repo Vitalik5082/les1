@@ -88,3 +88,6 @@ for(z=0; z<masuv.length; z++) {
     console.log(masuv[z])
 }
 // - Створити цикл for на 10  ітерацій з кроком 1. Вивести поточний номер кроку через console.log та document.write
+for (let cola = 0 ;cola < 10 ; cola++)
+console.log(cola)
+document.write(cola)
